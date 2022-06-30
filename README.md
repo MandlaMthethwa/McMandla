@@ -1,8 +1,9 @@
-#Food website
+#McMandla's website
 
-##This is a dummy website not responsive (No back-end ) to showcase my Frontend(UI design) skills
 
-To run the website
+#Get started
 Use XAMPP (htdocs) 
+localhost/McMandla
 
+#Technolgies
 JavaScript, HTML/CSS
